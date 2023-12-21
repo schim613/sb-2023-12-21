@@ -1,4 +1,4 @@
-package com.ll.global.security;
+package com.ll.sb231221.global.security;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.boot.autoconfigure.security.servlet.PathRequest;
